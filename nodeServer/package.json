@@ -1,7 +1,7 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "This is a node server for our iChat application",
+  "description": "This is a node server for our WeConnect application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
